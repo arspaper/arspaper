@@ -1,3 +1,15 @@
+<p align="center">
+<a href="https://github.com/arspaper">
+    <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=40&pause=1000&center=true&vCenter=true&random=false&width=435&height=70&lines=Welcome+to+my+profile;ap" alt="Typing SVG" />
+</a>
+<br/>
+
+<div style="text-align: center;">
+    <a href="https://github.com/arspaper">
+        <img src="https://github-stats-alpha.vercel.app/api?username=arspaper&cc=000&tc=fff&ic=fff&bc=000">
+    </a>
+</div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arspaper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
