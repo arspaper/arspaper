@@ -1,9 +1,3 @@
-<p align="center">
-<a href="https://github.com/arspaper">
-    <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=40&pause=1000&center=false&vCenter=false&random=false&width=435&height=70&lines=Welcome+to+my+profile;ap" alt="Typing SVG" />
-</a>
-<br/>
-
 <center>
     <a href="https://github.com/arspaper">
         <img src="https://github-stats-alpha.vercel.app/api?username=arspaper&cc=000&tc=fff&ic=fff&bc=000">
